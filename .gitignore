@@ -1,0 +1,13 @@
+.vscode
+Library
+Logs
+Packages
+ProjectSettings
+UserSettings
+Temp
+
+*.meta
+Assets/*
+!Assets/Scripts
+Assembly-CSharp.csproj
+Flappy Bird.sln
